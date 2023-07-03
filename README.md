@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yukesh Kumar.Sunkara
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently Working with PaySafe
-- 💞️ I’m looking to collaborate on Data Science & ML related Product development
+- 🌱 I’m currently Working with Endeavour Software Services
+- 💞️ I’m looking to collaborate on Data Analtics especially creating Dashoboards to uncover insights as a Data Anaylyst/Scientist, ML & DL related Product development.
 - 📫 You can reach me through E-mail sunkarayukeshkumar@gmail.com
 
 <!---
